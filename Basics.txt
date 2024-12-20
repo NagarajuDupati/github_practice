@@ -1,2 +1,6 @@
 Hi This file is created to check basics of git
 This is second line
+
+this is line added when practiced git branch command 
+
+git checkout -b branch_name
